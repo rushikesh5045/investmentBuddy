@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #346357; 
+}
+
+.App{
+  margin: 1rem ;
+  padding: 1rem ;
+  background-color:#ffffff; 
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  box-shadow: 4px 8px 12px rgba(253, 250, 250, 0.292);
+  border-radius: 10px;
+  
+}
+
+.head{
+  text-align: center;
+  text-shadow: #ddd 1px 1px 1px;
+  color: burlywood;
+}
+
+
+form{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: flex-start ;
+}
+img{
+
+  height: 100px;
+  width: auto;  
+}
+
+.render{
+  /* text-align: center; */
+  display: flex;
+  justify-content: space-evenly ;
+  padding: 1rem;
+  
+  /* border: 1px solid black; */
+}
+
+
+
+
+.investments-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: antiquewhite;
+  /* border-radius: 15px; */
+}
+
+.investments-table th {
+  background-color: #887790;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  /* border-radius: 15px; */
+}
+
+.investments-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.investments-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.investments-table tr:hover {
+  background-color: #ddd;
+}
