@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/investmentBuddy/static/css/main.828a5044.css",
+    "main.js": "/investmentBuddy/static/js/main.1fff7d91.js",
+    "static/js/787.4171a3c2.chunk.js": "/investmentBuddy/static/js/787.4171a3c2.chunk.js",
+    "index.html": "/investmentBuddy/index.html",
+    "main.828a5044.css.map": "/investmentBuddy/static/css/main.828a5044.css.map",
+    "main.1fff7d91.js.map": "/investmentBuddy/static/js/main.1fff7d91.js.map",
+    "787.4171a3c2.chunk.js.map": "/investmentBuddy/static/js/787.4171a3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828a5044.css",
+    "static/js/main.1fff7d91.js"
+  ]
+}
